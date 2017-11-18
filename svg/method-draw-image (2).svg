@@ -1,0 +1,18 @@
+<svg width="371" height="186" xmlns="http://www.w3.org/2000/svg">
+ <!-- Created with Method Draw - http://github.com/duopixel/Method-Draw/ -->
+
+ <g>
+  <title>background</title>
+  <rect x="-1" y="-1" width="373" height="188" id="canvas_background" fill="#fff"/>
+  <g id="canvasGrid" display="none">
+   <rect id="svg_5" width="100%" height="100%" x="0" y="0" stroke-width="0" fill="url(#gridpattern)"/>
+  </g>
+ </g>
+ <g>
+  <title>Layer 1</title>
+  <rect fill="#000000" stroke-width="1.5" x="1.49999" y="-1" width="369.000033" height="192" id="svg_4" stroke="#000"/>
+  <text fill="#00ffff" stroke-width="0" x="21.312733" y="164.782719" id="svg_1" font-size="171" font-family="'Shadows Into Light', serif" text-anchor="start" xml:space="preserve" transform="matrix(1.033267147975522,0,0,1.045557974211036,-3.270361113658666,-18.216280018816576) " stroke="#000" font-weight="bold">JYC</text>
+  <line fill="none" stroke-width="1.5" x1="1.500011" y1="177" x2="345.5" y2="134" id="svg_2" stroke-linejoin="undefined" stroke-linecap="undefined" stroke="#000"/>
+  <line fill="none" stroke-width="1.5" x1="4.499998" y1="32" x2="346.5" y2="55" id="svg_3" stroke-linejoin="undefined" stroke-linecap="undefined" stroke="#000"/>
+ </g>
+</svg>
